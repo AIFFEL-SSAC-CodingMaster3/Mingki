@@ -1,2 +1,2 @@
 # mingki
-Mingki's CodingMaster
+mingki's CodingMaster
